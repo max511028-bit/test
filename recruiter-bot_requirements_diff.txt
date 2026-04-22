@@ -1,0 +1,8 @@
+--- recruiter-bot/requirements.txt (原始)
+
+
++++ recruiter-bot/requirements.txt (修改后)
+streamlit==1.32.0
+google-generativeai==0.4.1
+gspread==6.0.0
+google-auth==2.28.1
